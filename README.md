@@ -1,9 +1,7 @@
 ### Hi Dev´s! Eu sou o Davi Borges!
 
-- Atualmente Trabalho como Despachante Documentalista
-- Estou estudando Java Script coltado para a Área de Front-End
+- Sou um profissional Front-End a proucura de uma Oportunidade!
 - Contate-me pelo email: davi.paula@hotmail.com
-- Pronome: Ele / Dele
 
 <picture>
 <source 
