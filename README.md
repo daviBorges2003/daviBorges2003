@@ -29,7 +29,7 @@ Sou um Desenvolvedor Fullstack no último período de Sistemas de Informação, 
 
 <div align="center">
   <!-- Gráfico de Atividade (Linha do tempo) -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=daviBorges2003&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="Gráfico de Atividade do Davi" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=daviBorges2003 &bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="Gráfico de Atividade do Davi" width="100%" />
 </div>
 
 <br>
